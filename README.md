@@ -1,7 +1,7 @@
 WMI Crawler
 ===========
 
-WMI Crawler is a simple command like application that crawls the WMI Namespaces, Classes, and Class Properties on the current system.  It is rather simplistic in its output however it is very easy to parse the output to find a namespace or a class you are looking for.
+WMI Crawler is a simple command line application that crawls for WMI Namespaces, Classes, and Class Properties on the current system.  It is rather simplistic in its output and is easy to parse the output to find a namespace or a class you are looking for by piping the output to another command or redirecting the output to a text file.
 
 ###Command Line Usage
 
