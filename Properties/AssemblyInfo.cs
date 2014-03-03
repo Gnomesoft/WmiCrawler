@@ -10,8 +10,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Gnomesoft, LLC")]
 [assembly: AssemblyProduct("WmiCrawler")]
-[assembly: AssemblyCopyright("Copyright ©  2014 Gnomesoft, LLC")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright © 2014 Gnomesoft, LLC")]
+[assembly: AssemblyTrademark("https://github.com/Gnomesoft/WmiCrawler")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
